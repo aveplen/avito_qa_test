@@ -1,0 +1,17 @@
+{
+    "bot_token": "your bot token here",
+    "channels": [
+      {
+        "channel": "test1",
+        "text": "Hello world to test1 🐵"
+      },
+      {
+        "channel": "test2",
+        "text": "Hello world to test2 🦊"
+      },
+      {
+        "channel": "test3",
+        "text": "Hello world to test3 🐷"
+      }
+    ]
+   }
