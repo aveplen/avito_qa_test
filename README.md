@@ -16,7 +16,7 @@ docker run -p 443:443 aveplen/avito_qa_test
 Если Go всё таки стоит:
 ```
 go mod download
-go run cmd/main.go [-f message.json]
+go run cmd/main.go -f message.json
 
 
 Или так:
